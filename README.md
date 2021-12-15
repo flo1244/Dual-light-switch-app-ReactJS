@@ -5,7 +5,7 @@ to manage state.
 
 ### Screenshot
 
-![](./screenshot-switch.gif)
+![](./screen-shot-switch.gif)
 
 
 ### Links
